@@ -7,7 +7,7 @@
 - Serverless architectures
 - Advanced backend scaling
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/jaswanthreddybotta/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/jaswanthreddybotta/))
 
 🛠️ Tech Stack:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
